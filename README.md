@@ -1,9 +1,15 @@
 # SSL
 
-### Alumno: Gasser Facundo 
-### Curso: K2003
+Repositorio para la materia Sintaxis y Semántica de los Lenguajes.
 
-Repositorio de la materia sintaxis y semantica de lenguajes
+## Alumno
+- Nombre: Gasser Facundo
 
+## Curso
+- Comisión: K2003
 
+## Descripción
+Este repositorio contiene los trabajos prácticos de la materia.
 
+## Estructura
+- 00-CHelloWorld: Primer programa en C (Hello World) usando C23.
